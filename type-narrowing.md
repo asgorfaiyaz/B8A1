@@ -40,4 +40,4 @@ function checkDate(value: unknown): void {
 }
 ```
 
-The bottom line is for narrowing down a type you need to know how to use type guards and the way you can see a specific type narrowed down is within a conditional block.
+The bottom line is, if you want to narrow down a type, you need to understand how type guards work. They help TypeScript identify the specific type of a variable within a "conditional block", allowing you to safely use type specific properties and methods.
