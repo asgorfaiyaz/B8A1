@@ -17,7 +17,7 @@ function printId(value: unknown) {
 ```
 
 Common type guards are : typeof, in, instance of, discriminated union etc.
-Lemme give you one more examples of narrowing with in and instance of operator:
+Lemme give you more examples of narrowing with in and instanceof operators:
 
 ```typescript
 type Dog = { bark: () => void };
