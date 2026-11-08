@@ -1,4 +1,4 @@
-What is Type Narrowing in TypeScript?
+# What is Type Narrowing in TypeScript?
 
 One of the most crucial thing we need to care in typescript is the idea of Type narrowing. If you don’t understand this properly you will never be able to have a good grasp on Typescript. Today I will make it simple for you.
 
