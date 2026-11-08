@@ -1,4 +1,4 @@
-What are the core differences between type aliases and interface in TypeScript? When should you choose one over the other?
+# What are the core differences between type aliases and interface in TypeScript? When should you choose one over the other?
 
 Today we’ll find out the truth by seeing what kind of problem they solve. To be honest, there is no short answer. It’s based on the use case.
 
